@@ -161,6 +161,10 @@ public class Reloj {
              return new Reloj(calculo);
          }
 
+         public void imprimirMensaje(){
+            System.out.println("Tarea de GIT, hola");
+         }
+
 
      }
 
